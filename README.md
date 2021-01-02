@@ -1,2 +1,3 @@
 # Project 27
-- Kavya Mehta
+newtons candle 1
+-by rishika garg
